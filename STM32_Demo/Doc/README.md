@@ -23,7 +23,7 @@
 ## 四、关键实验过程
 - 本例使用`端口4-USART4`发送数据，需使用杜邦线连接STM32的引脚，如图:
 
-![usart4引脚连线](screenshot/usart4引脚连线.png)
+![usart4引脚连接](screenshot/usart4引脚连接.png)
 
 ## 实验结果
 编译链接无误后通过J-Link将程序下载到开发板，按下`RESET`键，结果如下:
